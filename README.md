@@ -10,5 +10,5 @@ Code of how to implement Embed PowerBi in a view in rails
 - Gem json
 
 
-##3 Based on
+### Based on
 - https://www.taygan.co/blog/2018/05/14/embedded-analytics-with-power-bi
